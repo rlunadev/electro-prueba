@@ -1,0 +1,1 @@
+document.write('hola desde javasscript' + process.version)
